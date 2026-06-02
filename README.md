@@ -11,6 +11,9 @@ The goal is to help healthcare administrators monitor operational efficiency and
 
 Dashboard Preview
 
+<img width="1187" height="672" alt="Screenshot 2026-06-02 120713" src="https://github.com/user-attachments/assets/3a3bb953-5604-4344-b8bf-2dc9c63c9048" />
+
+
 Project Objectives
 
 This dashboard was created to:
